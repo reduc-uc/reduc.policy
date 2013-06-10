@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<metadata>
+  <version>1.00</version>
+  <dependencies>
+    <dependency>profile-Products.Scrawl:default</dependency>
+    <dependency>profile-Products.Faq:default</dependency>
+    <dependency>profile-reduc.theme:default</dependency>
+    <dependency>profile-reduc.inventario:default</dependency>
+    <dependency>profile-reduc.usermanager:default</dependency>
+    <dependency>profile-wsapi4plone.core:default</dependency>
+  </dependencies>
+</metadata>
